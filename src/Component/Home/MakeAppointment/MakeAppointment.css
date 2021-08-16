@@ -1,0 +1,27 @@
+.container-size{
+    margin-top: 220px;
+}
+
+
+.make{
+  
+    height: 420px;
+   
+    background: linear-gradient(rgba(36, 41, 73,.8),rgba(36, 41, 73,.8)),url('../../../images/psd.png') no-repeat center/ cover;
+  
+  
+   
+}
+@media  only screen and (max-width:720px){
+     .make{
+        height: 950px;
+        
+    }
+    .make img{
+        width: 100%;
+    }
+}
+.make img{
+    height: 570px;
+    transform: translateY(-150px);
+}

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.text-color{
+  color:#100142;
+}
+.text-style{
+  font-family: 'Roboto', sans-serif;
+}
+.btn-clr{
+  background-image: linear-gradient(45deg, #019687,#13D1D4);
+  color:white;
+ 
+}
+.divmargin{
+  margin-top: 90px;
+}
+.color{
+  color:rgb(22, 204, 204)
+}
